@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Familiar",
+  "base_artist": "田中有紀",
+  "createdAt": "2026-01-11T12:13:32.150164Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Familiar Strangers",
+      "artist": "Loafeye",
+      "has_synced": false,
+      "path": "select/01_Familiar_Strangers_Loafeye.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Familiar Five",
+      "artist": "Marcus Marr",
+      "has_synced": true,
+      "path": "select/02_Familiar_Five_Marcus_Marr.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Old Familiar Way",
+      "artist": "of Montreal",
+      "has_synced": true,
+      "path": "select/03_Old_Familiar_Way_of_Montreal.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Familiar (feat. TheHxliday)",
+      "artist": "Internet Money feat. TheHxliday",
+      "has_synced": true,
+      "path": "select/04_Familiar_(feat._TheHxliday)_Internet_Money_feat._TheHxliday.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Familiar (feat. TheHxliday)",
+      "artist": "Internet Money",
+      "has_synced": true,
+      "path": "select/05_Familiar_(feat._TheHxliday)_Internet_Money.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Familiar Fields",
+      "artist": "Duster",
+      "has_synced": false,
+      "path": "select/06_Familiar_Fields_Duster.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Familiar",
+      "artist": "Ice the Don feat. Ty Dolla Sign",
+      "has_synced": false,
+      "path": "select/07_Familiar_Ice_the_Don_feat._Ty_Dolla_Sign.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Familiar",
+      "artist": "Ty Dolla Sign",
+      "has_synced": false,
+      "path": "select/08_Familiar_Ty_Dolla_Sign.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Something Familiar",
+      "artist": "CURVE",
+      "has_synced": false,
+      "path": "select/09_Something_Familiar_CURVE.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Familiar Light",
+      "artist": "Asobi Seksu",
+      "has_synced": true,
+      "path": "select/10_Familiar_Light_Asobi_Seksu.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Algo Familiar",
+      "artist": "Nouvelle Vague feat. Liset Alea",
+      "has_synced": false,
+      "path": "select/11_Algo_Familiar_Nouvelle_Vague_feat._Liset_Alea.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Algo Familiar",
+      "artist": "Nouvelle Vague, Liset Alea",
+      "has_synced": false,
+      "path": "select/12_Algo_Familiar_Nouvelle_Vague,_Liset_Alea.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Familiar Feeling",
+      "artist": "Moloko",
+      "has_synced": false,
+      "path": "select/13_Familiar_Feeling_Moloko.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Familiar Feeling - Radio Edit",
+      "artist": "Moloko",
+      "has_synced": true,
+      "path": "select/14_Familiar_Feeling_-_Radio_Edit_Moloko.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "It Is Familiar",
+      "artist": "Bodies of Water",
+      "has_synced": false,
+      "path": "select/15_It_Is_Familiar_Bodies_of_Water.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Familiar",
+      "artist": "田中有紀",
+      "has_synced": false,
+      "path": "select/pl_01_Familiar_田中有紀.txt"
+    }
+  ]
+}
